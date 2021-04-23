@@ -1,6 +1,5 @@
-package com.availity.homework.services;
+package com.availity.homework.utilities;
 
-import com.availity.homework.utilities.LispParenthesesHelper;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
