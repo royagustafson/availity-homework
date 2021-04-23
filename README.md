@@ -28,6 +28,5 @@
 2. Not sure yet
 3. Availity cuts down the amount of time and effort required when switching doctors, following referrals, or getting prescriptions, by giving medical offices a common language to talk to each other and share important information.
 4. See "LispParenthesesHelper.java" and "LispParenthesesHelperTest.java." Code is fully functional and all tests pass. 
-5. Start the React server by running "npm start" under the "client" directory. Form is stubbed and not connected to a server. 
-6. See "EnrolleeReaderService.java." This code is NOT functional, but demonstrates how I'd go about this project with simple CSV libraries. 
-
+5. See "RegistrationForm.tsx". Start the React server by running "npm start" under the "client" directory. Form is fully functional (front-end only). 
+6. See "EnrolleeReaderService.java." This code is NOT functional, but demonstrates how I'd go about this project with a simple CSV libraries. 
