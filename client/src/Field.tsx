@@ -26,7 +26,7 @@ export const Field: React.FunctionComponent<IFieldProps> = ({
                                                                 editor,
                                                                 options,
                                                                 value
-                                                            }) => {
+}) => {
     return (
         <div className="form-group">
             {label && <label htmlFor={id}>{label}</label>}
